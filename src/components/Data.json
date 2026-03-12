@@ -1,0 +1,12 @@
+{
+    "data":{
+        "name":"vignesh G",
+        "regNo":113322205056,
+        "dept":"B.Tech - IT",
+        "year":4,
+        "batch":"2022 - 2026",
+        "studenType":"hostel",
+        "roomNo":143,
+        "image_url":"src/assets/vicky.jpg"
+    }
+}
