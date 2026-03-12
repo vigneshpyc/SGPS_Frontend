@@ -38,7 +38,7 @@ function StudentLogin() {
             </ul>
         </div>
 
-        <form action="#" >
+        <form>
             <img src={student} alt="" />
             <input type="number" placeholder='University Register number' />
             <input type="text" placeholder='Name(as per in attendance)' />
